@@ -18,6 +18,7 @@ Exploração de novas ferramentas e metodologias.
 🖼️ Imagens
 
 💻 Como rodar localmente
+
 Clone o repositório:
 -git clone https://github.com/leozinhomed/nlw-journey.git
 
