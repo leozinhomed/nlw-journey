@@ -1,4 +1,4 @@
-🚀 ####Plann.er - [NLW-JOURNEY]
+🚀 **# Plann.er** - [NLW-JOURNEY]
 
 O Plann.er é um planejador de viagens simples e intuitivo, desenvolvido com React, TypeScript, JS e uma pitada de paixão por desenvolvimento web! 😄
 
