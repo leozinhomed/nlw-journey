@@ -17,7 +17,10 @@ Aplicação de boas práticas em desenvolvimento frontend.
 Exploração de novas ferramentas e metodologias.
 🖼️ Imagens
 ![image](https://github.com/user-attachments/assets/bb9b4d7b-205b-4c0d-b63c-e4bfd1abe65e)
+(Inicial)
 
+![image](https://github.com/user-attachments/assets/948ed3e3-004b-464f-81f0-69073f36d340)
+(Seleção de convidados para viagem)
 💻 Como rodar localmente
 
 Clone o repositório:
