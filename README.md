@@ -1,17 +1,21 @@
-🚀 Plann.er - [NLW-JOURNEY]
+🚀 ## Plann.er - [NLW-JOURNEY]
+
 O Plann.er é um planejador de viagens simples e intuitivo, desenvolvido com React, TypeScript, JS e uma pitada de paixão por desenvolvimento web! 😄
 
 🛠 __Tecnologias Utilizadas__
+
 React: Componentização e criação de interfaces modernas.
 TypeScript: Tipagem estática e segurança no desenvolvimento.
 JavaScript: Lógica e manipulação de dados.
 
 🌟 __Funcionalidades__
+
 Criação de itinerários personalizados ✈️
 Armazenamento de dados localmente para persistência 🗂️
 Interface amigável e responsiva 📱
 
 🎯 __Objetivos do Projeto__
+
 Domínio das tecnologias React e TypeScript.
 Aplicação de boas práticas em desenvolvimento frontend.
 Exploração de novas ferramentas e metodologias.
